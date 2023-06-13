@@ -1,3 +1,4 @@
+--What are the numbers of complaints based on their Problem severity per year?
 SELECT d.Year, i.TYPE, i.Interaction_time, f.Problem_severity,
             COUNT (f.Problem_Severity) AS "No. of Complaints", i.Description 
     FROM Interactions_DIM i 

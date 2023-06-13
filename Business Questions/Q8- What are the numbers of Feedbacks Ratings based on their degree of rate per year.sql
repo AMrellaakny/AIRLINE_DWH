@@ -1,3 +1,4 @@
+--What are the numbers of Feedbacks Ratings based on their degree of rate per year?
 SELECT d.Year, i.TYPE, f.Feedback_Rate,
             COUNT(f.Feedback_Rate) AS "No. of Feedback Ratings", i.Description 
     FROM Interactions_DIM i 

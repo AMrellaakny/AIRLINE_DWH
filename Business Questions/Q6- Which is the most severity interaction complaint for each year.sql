@@ -1,3 +1,4 @@
+--Which is the most severity interaction complaint for each year?
 SELECT d.Year, i.TYPE, MAX(f.Problem_Severity)
     FROM  Interactions_DIM i  
 JOIN Customer_Care_fact f
