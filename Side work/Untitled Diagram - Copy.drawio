@@ -1,0 +1,240 @@
+<mxfile host="Electron" modified="2023-05-23T13:09:34.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="Y7OAzOayKo8MQ7RT258n" version="21.2.8" type="device">
+  <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
+    <mxGraphModel dx="1723" dy="2603" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="200" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2ed32ef02a7f4228-3" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ed32ef02a7f4228-3" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Channels Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Channel key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Channel type&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="201" y="-682" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2ed32ef02a7f4228-4" target="PtjftL3Fih3zfnP2VZtl-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ed32ef02a7f4228-4" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Redeem Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Redeem key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Type&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="201" y="-1443" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2ed32ef02a7f4228-8" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Flights Activity Fact&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Leg key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DD&lt;/td&gt;&lt;td&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Freq key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Aircraft key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DD&lt;br&gt;&lt;/td&gt;&lt;td&gt;Segment number&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flight key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Departure airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Arrival airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Actual departure date&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Schedualed departure time&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Actual departure time&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Actual arrival date&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Schedualed arrival time&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Actual arrival time&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Reservation ticket date&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;FK&lt;br&gt;FK&lt;br&gt;FK&lt;br&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Channel key&lt;br&gt;Payment method key&lt;br&gt;Fare Basis key&lt;br&gt;Class upgrade key&lt;br&gt;Hotel key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="598" y="-1027" width="213" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2ed32ef02a7f4228-12" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ed32ef02a7f4228-12" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Payment method Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;P M key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Payment type&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="179" y="-559" width="202" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-6" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Customer Care Fact&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;CC key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DD&lt;/td&gt;&lt;td&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Freq key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Reservation ticket date&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DD&lt;br&gt;&lt;/td&gt;&lt;td&gt;Segment number&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flight key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Interaction key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Staff key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Problem severity&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Feedback rate&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Departure airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Arrival airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Seat number&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-208" width="213" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-7" target="PtjftL3Fih3zfnP2VZtl-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="871" y="-1365" />
+              <mxPoint x="871" y="-1365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-7" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="871" y="-1105" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="832" y="-1284" />
+              <mxPoint x="832" y="-1105" />
+              <mxPoint x="705" y="-1105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-7" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Frequent Flyers Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Freq key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Freq ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Tier&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Club membership status&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Milage tier&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Membership status&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="936" y="-1392" width="178" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-8" target="PtjftL3Fih3zfnP2VZtl-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="793" y="-1300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1024" y="-934" />
+              <mxPoint x="1024" y="-962" />
+              <mxPoint x="897" y="-962" />
+              <mxPoint x="897" y="-1326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-8" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-8" target="PtjftL3Fih3zfnP2VZtl-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="858" y="-702" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1025" y="-728" />
+              <mxPoint x="1026" y="-728" />
+              <mxPoint x="1026" y="-715" />
+              <mxPoint x="858" y="-715" />
+              <mxPoint x="858" y="-273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-8" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Date Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Full Date&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Year&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Quarter&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Monrth name&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Week of year&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Week of Month&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Day name&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Day number&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="936" y="-934.5" width="178" height="193.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="811" y="-598" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="871" y="-598" />
+              <mxPoint x="871" y="-598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-9" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Aircrafts Dimension&amp;nbsp;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Aircraft key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Aircraft ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Model&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Company&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Seats Capacity&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="936" y="-668" width="182" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-10" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="-546" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="911" y="-364" />
+              <mxPoint x="911" y="-546" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-10" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Class Upgrade Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Class upgrade key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Class upgrade ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Purchased class&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flown class&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Purchased flown group&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Class change indicator&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="936" y="-442" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-11" target="PtjftL3Fih3zfnP2VZtl-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-11" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Staff Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Staff kry&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Staff ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Gender&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Address&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Job title&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Department&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Phone&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Supervisor&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="934" y="-221" width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-12" edge="1" target="PtjftL3Fih3zfnP2VZtl-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571" y="-65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="-65" />
+              <mxPoint x="455" y="-65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-12" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Interaction Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Interaction key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Type&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Interaction time&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Description&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="221" y="-117" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.202;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-13" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="-910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="-910" />
+              <mxPoint x="595" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-13" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Hotels Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Hotel key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Hotel ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Stars&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Night price&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;City&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Country&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="195" y="-1105" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-14" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-14" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Fare Basis Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Fare Basis key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Status&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Code&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Promotion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="195" y="-884" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="-1326" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="-1326" />
+              <mxPoint x="621" y="-1326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-15" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="-1001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="534" y="-1235" />
+              <mxPoint x="534" y="-1001" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-15" target="PtjftL3Fih3zfnP2VZtl-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="468" y="-234" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="-1137" />
+              <mxPoint x="429" y="-1137" />
+              <mxPoint x="429" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-15" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Airports Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Airport key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Airport ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Airport name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;City&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Country&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="195" y="-1313" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-16" target="PtjftL3Fih3zfnP2VZtl-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="572" y="-156" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="291" y="-182" />
+              <mxPoint x="292" y="-182" />
+              <mxPoint x="292" y="-156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PtjftL3Fih3zfnP2VZtl-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="598" y="-481" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="468" y="-300" />
+              <mxPoint x="468" y="-481" />
+              <mxPoint x="598" y="-481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-16" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Passenger Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Passenger ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Passenger name&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Gender&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Phone&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Email&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Passenger Type&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Address&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;City&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Country&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="201" y="-403" width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-18" target="PtjftL3Fih3zfnP2VZtl-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1209" y="-1469" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1209" y="-1124" />
+              <mxPoint x="1209" y="-1469" />
+              <mxPoint x="705" y="-1469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-18" target="PtjftL3Fih3zfnP2VZtl-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="684" y="-13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1026" y="-1020" />
+              <mxPoint x="1222" y="-1020" />
+              <mxPoint x="1222" y="52" />
+              <mxPoint x="684" y="52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtjftL3Fih3zfnP2VZtl-18" target="2ed32ef02a7f4228-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="884" y="-988" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="-1124" />
+              <mxPoint x="910" y="-989" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-18" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Flights Dimension&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;Flight key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Flight ID&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Flight zone&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flight Type&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="936" y="-1196" width="180" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-5" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Frequent Flyers Fact&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;SK&lt;/td&gt;&lt;td&gt;FF Fact key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DD&lt;/td&gt;&lt;td&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;/td&gt;&lt;td&gt;Freq key&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flight date&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Flight key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Departure airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Arrival airport&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Miles flown&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Miles earned&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Promotion response&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK&lt;br&gt;&lt;/td&gt;&lt;td&gt;Redeem key&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="622" y="-1399" width="165" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Luggage number&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Base fare price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Taxes&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Overweight Luggage price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Upgrade fees&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Promotion amount&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Net price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Cost&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Profit&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Flight duration&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Overnight stays&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="598" y="-633" width="213" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="-1081" width="224" height="481" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

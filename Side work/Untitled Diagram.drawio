@@ -1,0 +1,406 @@
+<mxfile host="Electron" modified="2023-05-23T14:13:21.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="ANmY-sv8puuYrOcfKmGj" version="21.2.8" type="device">
+  <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
+    <mxGraphModel dx="3015" dy="3285" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250" pageHeight="90" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-36" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.59" y="-631.5129729729731" as="sourcePoint" />
+            <mxPoint x="505" y="-646" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="352" y="-631" />
+              <mxPoint x="423" y="-631" />
+              <mxPoint x="423" y="-730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.004;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-24" target="lYHxwdsGuiaT4lTTqIYL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-1393.952380952381" as="sourcePoint" />
+            <mxPoint x="518" y="-1348" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="-1397" />
+              <mxPoint x="435" y="-1348" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-40" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-511.48648648648646" as="sourcePoint" />
+            <mxPoint x="553" y="-714.27" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-512" />
+              <mxPoint x="479" y="-512" />
+              <mxPoint x="479" y="-691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.099;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-73" target="lYHxwdsGuiaT4lTTqIYL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="-1347" />
+            </Array>
+            <mxPoint x="895" y="-1361" as="sourcePoint" />
+            <mxPoint x="765" y="-1348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.996;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="817" y="-997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="-1280" />
+              <mxPoint x="817" y="-996" />
+            </Array>
+            <mxPoint x="895" y="-1280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.258;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-65" target="lYHxwdsGuiaT4lTTqIYL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="-1321.969696969697" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="856" y="-893" />
+              <mxPoint x="856" y="-1322" />
+            </Array>
+            <mxPoint x="856" y="-893" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="-833.75" as="sourcePoint" />
+            <mxPoint x="778" y="-893" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="817" y="-834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.4;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-65" target="lYHxwdsGuiaT4lTTqIYL-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.4736842105265" y="-204" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="-724" />
+              <mxPoint x="985" y="-724" />
+              <mxPoint x="985" y="-711" />
+              <mxPoint x="817" y="-711" />
+              <mxPoint x="817" y="-269" />
+            </Array>
+            <mxPoint x="984" y="-737" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.993;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-61" edge="1" target="lYHxwdsGuiaT4lTTqIYL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="-594" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="774" y="-594" />
+            </Array>
+            <mxPoint x="895" y="-593.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.668;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-57" target="lYHxwdsGuiaT4lTTqIYL-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="791" y="-555" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="-359" />
+              <mxPoint x="870" y="-542" />
+              <mxPoint x="791" y="-542" />
+            </Array>
+            <mxPoint x="895" y="-360.030303030303" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-52" target="lYHxwdsGuiaT4lTTqIYL-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="893" y="-114.5151515151515" as="sourcePoint" />
+            <mxPoint x="773.2780000000002" y="29.947999999999865" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="892" y="-114" />
+              <mxPoint x="817" y="-115" />
+              <mxPoint x="817" y="-176" />
+              <mxPoint x="791" y="-176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.881;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="lYHxwdsGuiaT4lTTqIYL-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="33.09400000000005" as="targetPoint" />
+            <mxPoint x="360" y="-61" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="505" y="-61" />
+              <mxPoint x="505" y="-126" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.202;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.576;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549.8050000000001" y="-989.22" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="-906" />
+              <mxPoint x="554" y="-906" />
+              <mxPoint x="554" y="-989" />
+            </Array>
+            <mxPoint x="244.02702702702697" y="-945" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-32" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="-801.9729729729731" as="sourcePoint" />
+            <mxPoint x="518" y="-802" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="339" y="-801" />
+              <mxPoint x="505" y="-801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.556;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-17" edge="1" target="lYHxwdsGuiaT4lTTqIYL-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-1322" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="-1322" />
+            </Array>
+            <mxPoint x="244" y="-1309" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.416;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-16" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553" y="-997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="493" y="-1231" />
+              <mxPoint x="493" y="-997" />
+            </Array>
+            <mxPoint x="334" y="-1231" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.635;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-16" target="lYHxwdsGuiaT4lTTqIYL-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="-132.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="-1133" />
+              <mxPoint x="388" y="-1133" />
+              <mxPoint x="388" y="-226" />
+            </Array>
+            <mxPoint x="244" y="-1166" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.764;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="lYHxwdsGuiaT4lTTqIYL-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.213" y="-57.56800000000021" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-178" />
+              <mxPoint x="251" y="-178" />
+              <mxPoint x="251" y="-152" />
+              <mxPoint x="545" y="-152" />
+            </Array>
+            <mxPoint x="250.02702702702697" y="-194" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="lYHxwdsGuiaT4lTTqIYL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="-477" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="427" y="-296" />
+              <mxPoint x="427" y="-438" />
+              <mxPoint x="608" y="-438" />
+            </Array>
+            <mxPoint x="340" y="-296.5135135135138" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=-0.002;entryDx=0;entryDy=0;exitX=1.001;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-69" target="lYHxwdsGuiaT4lTTqIYL-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.5" y="-1395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1155" y="-1120" />
+              <mxPoint x="1155" y="-1465" />
+              <mxPoint x="664" y="-1465" />
+              <mxPoint x="664" y="-1391" />
+            </Array>
+            <mxPoint x="1075" y="-1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.405;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.451;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-69" target="lYHxwdsGuiaT4lTTqIYL-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661" y="-9" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="986" y="-1016" />
+              <mxPoint x="1155" y="-1016" />
+              <mxPoint x="1155" y="17" />
+              <mxPoint x="648" y="17" />
+            </Array>
+            <mxPoint x="985" y="-1048" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtjftL3Fih3zfnP2VZtl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lYHxwdsGuiaT4lTTqIYL-69" target="lYHxwdsGuiaT4lTTqIYL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="776" y="-945" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="882" y="-1119" />
+              <mxPoint x="882" y="-945" />
+              <mxPoint x="776" y="-945" />
+            </Array>
+            <mxPoint x="895" y="-1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="551.5" y="-1062" width="224" height="575.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Luggage number&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Base fare price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Taxes&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Overweight Luggage price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Upgrade fees&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Promotion amount&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Net price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Cost&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Profit&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Flight duration&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Overnight stays&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-5">
+          <mxGeometry y="406.5" width="224" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 213px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Leg key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;DD&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Freq key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Aircraft key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;DD&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Segment number&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Departure airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Arrival airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Actual departure date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Schedualed departure time&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Actual departure time&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Actual arrival date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Schedualed arrival time&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Actual arrival time&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Reservation ticket date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Channel key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Payment method key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Fare Basis key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Class upgrade key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Hotel key&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-5">
+          <mxGeometry y="26" width="224" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-4" value="&lt;b&gt;Flights Activity Fact&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-5">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="547" y="-347" width="224" height="314.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Problem severity&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Feedback rate&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Seat number&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-10">
+          <mxGeometry y="253" width="224" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 213px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;CC key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;DD&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Freq key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Reservation ticket date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;DD&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Segment number&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Interaction key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Staff key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Departure airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Arrival airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-10">
+          <mxGeometry y="26" width="224" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-9" value="&lt;b&gt;Customer Care Fact&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-10">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="535" y="-1388" width="224" height="247.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Miles Earned&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Miles Flown&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Verdana;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Promotion response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-15">
+          <mxGeometry y="186" width="224" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-13" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 165px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FF Fact key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;DD&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Ticket Number&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Freq key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight key&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Departure airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Arrival airport&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;FK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Redeem key&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-15">
+          <mxGeometry y="26" width="224" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-14" value="&lt;b&gt;Frequent Flyers Fact&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-15">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="128" y="-1439" width="224" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-24" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Redeem key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Type&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-23">
+          <mxGeometry y="26" width="224" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-25" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Redeem Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-23">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="119" y="-1300" width="224" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-16" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Airport key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Airport ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Airport name&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;City&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Country&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-26">
+          <mxGeometry y="26" width="224" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-17" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Airports Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-26">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="115" y="-1088" width="224" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-28" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Hotel key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Hotel ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Stars&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Night price&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;City&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Country&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-30">
+          <mxGeometry y="26" width="224" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-29" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Hotels Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-30">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="115" y="-867" width="224" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-32" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Fare Basis key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Status&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Code&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Promotion&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-34">
+          <mxGeometry y="26" width="224" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-33" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Fare Basis Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-34">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="128" y="-685" width="224" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-36" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Channel key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Channel type&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-38">
+          <mxGeometry y="26" width="224" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-37" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Channels Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-38">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="116" y="-555" width="224" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-40" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 202px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;P M key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Payment type&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-42">
+          <mxGeometry y="26" width="224" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-41" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Payment methods Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-42">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-46" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="115" y="-431" width="224" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-44" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger name&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Gender&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Phone&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Email&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Passenger Type&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Address&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;City&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Country&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-46">
+          <mxGeometry y="26" width="224" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-45" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Passengers Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-46">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="135" y="-113" width="224" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-48" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Interaction key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Type&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Interaction time&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-50">
+          <mxGeometry y="26" width="224" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-49" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Interactions Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-50">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-230" width="224" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-52" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Staff kry&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Staff ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Name&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Gender&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Address&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Job title&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Department&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Phone&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Supervisor&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-54">
+          <mxGeometry y="26" width="224" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-53" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Staff Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-54">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-452" width="224" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-57" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Class upgrade key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Class upgrade ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Purchased class&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flown class&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Purchased flown group&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Class change indicator&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-59">
+          <mxGeometry y="26" width="224" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-58" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Class Upgrage Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-59">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-672" width="224" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-61" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 182px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Aircraft key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Aircraft ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Model&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Company&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Seats Capacity&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-63">
+          <mxGeometry y="26" width="224" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-62" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Aircrafts Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-63">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-932" width="224" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-65" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 178px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Full Date&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Year&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Quarter&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Monrth name&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Week of year&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Week of Month&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Day name&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Day number&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-67">
+          <mxGeometry y="26" width="224" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-66" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Date Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-67">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-1179" width="224" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-69" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 180px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight zone&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Flight Type&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-71">
+          <mxGeometry y="26" width="224" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-70" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Flights Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-71">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="895" y="-1396" width="224" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-73" value="&lt;div style=&quot;&quot;&gt;&lt;table style=&quot;border-color: var(--border-color); font-family: Verdana; font-size: 1em; width: 178px;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;SK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Freq key&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;NK&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Freq ID&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Tier&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Club membership status&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Milage tier&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border-color: var(--border-color);&quot;&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;td style=&quot;border-color: var(--border-color);&quot;&gt;Membership status&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-75">
+          <mxGeometry y="26" width="224" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lYHxwdsGuiaT4lTTqIYL-74" value="&lt;font color=&quot;#fffafa&quot;&gt;&lt;b&gt;Frequent Flyers Dimension&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="lYHxwdsGuiaT4lTTqIYL-75">
+          <mxGeometry width="224" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
